@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Bruger Barn
+title: Burger Barn
 image: /img/1484727_1480711048811925_1459330813_n.jpg
 heading: Great coffee with a conscience
 subheading: Grass-fed local beef
